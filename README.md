@@ -1,2 +1,2 @@
-# app-credit-calculator
-This is JS Credit Cal.
+# js-credit-calculator-app
+JS-Credit-Calculator APP!
